@@ -3,9 +3,9 @@
 ## Daily PCP:
  1: 
    
-###   'flag: "ninja{du5t_0ff_y0ur_C}"'
+flag: "ninja{du5t_0ff_y0ur_C}"
    
-###   'code: sec1.c'
+code: sec1.c
 
  
  2: 
