@@ -17,4 +17,5 @@ code: sec1.c
  
  3:
   
-   flag:
+   flag: "ninja{cr4ck_th3_c453!}
+   code: Used r2 command on file "babycrack " to find
