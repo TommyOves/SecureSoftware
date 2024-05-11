@@ -23,5 +23,5 @@ code: sec1.c
 
 
 ## Project 2 (Speedruns)
-In the Speedruns directory, you can find the exploit files for each speedrun.
-The exploits will be named c0.py for challenge 0, c1.py for challenge 1, and so on.
+In the "pwns" directory, you will find the exploit files for each challenge.
+The exploits will be named "exploit.py".
