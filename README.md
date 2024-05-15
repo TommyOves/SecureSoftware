@@ -43,6 +43,16 @@
    
    code: Used r2 command on file "flagchecker" to find
 
+ 8:
+
+   flag: "Right. Off you go." is printed
+
+   code: exploit.py
+
+ 9:
+
+   flag:
+
 ## Project 2 (Speedruns)
 In the "pwns" directory, you will find the exploit files for each challenge.
 The exploits will be named "exploit.py".
