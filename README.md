@@ -51,7 +51,39 @@
 
  9:
 
+   flag: "CTFlearn{c0ntr0ling_r1p_1s_n0t_t00_h4rd_abjkdlfa}"
+
+   code: exploit.py
+
+ 10:
+
+   flag: ninja{turtl3_p0wer!}
+
+   code: exploit.py
+
+ 11: 
+
+   flag: ninja{32-bit-args...CHECK!}
+
+   code: exploit.py
+
+ 12:
+
+   flag: 
+
+   code: 
+   
+ 13:
+
+   flag: ROPE{a_placeholder_32byte_flag!}
+
+   code: exploit.py
+
+ 14:
+
    flag:
+
+   code:
 
 ## Project 2 (Speedruns)
 In the "pwns" directory, you will find the exploit files for each challenge.
