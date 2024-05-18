@@ -33,9 +33,7 @@
 
  6:
 
-   flag: 
-   
-   code:
+   Crackme created by me for others
 
  7:
 
@@ -69,9 +67,9 @@
 
  12:
 
-   flag: 
+   flag: ninja{64-bit-ROP_or_something}
 
-   code: 
+   code: exploit.py
    
  13:
 
@@ -83,7 +81,19 @@
 
    flag:
 
-   code:
+   code: exploit.py
+
+ 15:
+
+   flag: ninja{maybe_this_is_fridays_PCP}
+
+   code: exploit.py
+
+ 16:
+
+   flag: 
+
+   code: exploit.py
 
 ## Project 2 (Speedruns)
 In the "pwns" directory, you will find the exploit files for each challenge.
